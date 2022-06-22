@@ -1,12 +1,22 @@
 ## Hi there 👋 
 
 - 🔭 Recent projects:
+  - 
+    - language school telegram bot
+    - assurance center telegram bot
+    - car accident registration center
+    - todolist
+    - dream job
+    - grabber
 
 - 🌱 I’m currently learning:
-  - java
-  - system design
-  - architecture 
+  - 
+    - java
+    - system design
+    - architecture
+  
 - 💬 Ask me about anything
+  - 
 
 <!--
 - 🔭 I’m currently working on:
@@ -22,9 +32,13 @@
 -->
 
 - 📫 How to reach me:
+  - 
 
 [![alt-text](https://img.shields.io/badge/-telegram-grey?style=flat&logo=telegram&logoColor=white)](https://t.me/waterpoleg)&nbsp;&nbsp;
 [![alt-text](https://img.shields.io/badge/@%20email-005FED?style=flat&logo=mail&logoColor=white)](mailto:watepoleg@gmail.com)&nbsp;&nbsp;
+
+- Additional info 
+  -
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=waterpoleg&theme=solarized_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=waterpoleg&theme=solarized_dark)
